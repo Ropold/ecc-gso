@@ -100,6 +100,9 @@ Auf Wiederhören.
 
 ## Example Call: Technical Support
 
+**Mr. Camelier:**
+VideoTech Solutions, support hotline, Mr. Camelier speaking. How can I help you?
+
 **Ms. Berg:**
 Hello, Mr. Camelier. I'm calling about a small problem. The microphone in the video system isn't turning on.
 

@@ -53,3 +53,32 @@ Für max. 100 Teilnehmer pro Spiel → /25 Subnetz (126 nutzbare Hosts)
 - IP: `192.168.1.141`
 - Subnetzmaske: `255.255.255.128`
 - Gateway: `192.168.1.129`
+
+## 4. Benötigte Hardware-Komponenten
+
+### Netzwerk:
+- **Switches**: 3× 48-Port Gigabit (für 100 Teilnehmer)
+- **Router**: 10× für Gateway-Funktion je Subnetz (oder 1× mit VLAN)
+- **Netzwerkkabel**: 100× Cat6 (verschiedene Längen)
+
+### Stromversorgung:
+- **Steckdosenleisten**: 25× (4-fach, Überspannungsschutz)
+- **Verlängerungskabel**: 20× (10m, 20m)
+- **CEE-Verteiler**: Für Hauptstromversorgung
+- **USV**: Für Switches/Router (Ausfallschutz)
+
+### Stromberechnung:
+- Pro PC + Monitor: ca. 400W
+- 100 Teilnehmer: ca. 40kW + Netzwerk-Hardware
+
+## 5. Hardware-Liste (Zusammenfassung)
+
+| Komponente | Anzahl | Zweck |
+|------------|--------|-------|
+| 48-Port Gigabit Switch | 3× | Netzwerkanbindung |
+| Router (VLAN-fähig) | 10× | Gateway pro Subnetz |
+| Cat6 Netzwerkkabel | 100× | Client-Anbindung |
+| Steckdosenleiste (4-fach) | 25× | Stromversorgung |
+| Verlängerungskabel | 20× | Stromverteilung |
+| CEE-Verteiler | 2× | Hauptstrom |
+| USV-Anlage | 2× | Ausfallschutz |

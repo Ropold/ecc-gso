@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="26.1.3">
+  <diagram name="Seite-1" id="lpdJHVEyylitsBwXRENV">
+    <mxGraphModel dx="662" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WsrnC3vGDnDsjaW6kEPT-1" value="Software-Übersetzer:&lt;br&gt;Compiler &amp;amp; Interpreter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="490" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WsrnC3vGDnDsjaW6kEPT-2" value="Hoch-Sprachen: C#, Java, C++, Python," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsrnC3vGDnDsjaW6kEPT-3" value="Ausgangspunkt:&amp;nbsp;&lt;div&gt;Problem &amp;amp; Programmierer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsrnC3vGDnDsjaW6kEPT-4" value="Entwicklungsumgebung:&lt;div&gt;IDE, Entwicklungsrechner, Tastatur&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="615" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsrnC3vGDnDsjaW6kEPT-5" value="Zwischen-Ebenen:&lt;div&gt;Bytecode, Assembler-Code, Assembler&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="660" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WsrnC3vGDnDsjaW6kEPT-7" value="Maschinenebene:&lt;br&gt;Maschinensprache &amp;amp; VM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsrnC3vGDnDsjaW6kEPT-8" value="Ausführung:&lt;div&gt;Zielrechner &amp;amp; ausführendes Programm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -101,35 +101,41 @@ Auf Wiederhören.
 ## Example Call: Technical Support
 
 **Mr. Camelier:**
-VideoTech Solutions, support hotline, Mr. Camelier speaking. How can I help you?
+VideoTech Solutions, support hotline. Mr. Camelier speaking. How can I help you?
 
 **Ms. Berg:**
-Hello, Mr. Camelier. I'm calling about a small problem. The microphone in the video system isn't turning on.
+Hello Mr. Camelier, this is Ms. Berg from [Company] in [City], Germany. I'm calling about a small problem. The microphone in the video system isn't turning on.
 
 **Mr. Camelier:**
-Alright, let's check a few things. First: is the microphone plugged in properly?
+Hi Ms. Berg. Can you give me the order number and date?
 
 **Ms. Berg:**
+Yes, it's order number [Number]. Alright, let's check a few things. First: is the microphone plugged in properly?
+
+**Mr. Camelier:**
 Yes, I checked that. Everything is connected.
 
-**Mr. Camelier:**
+**Ms. Berg:**
 Good. Then let's try the second step. Does the system show any messages?
 
-**Ms. Berg:**
+**Mr. Camelier:**
 Yes, it says "Permission denied."
 
-**Mr. Camelier:**
-That means your browser blocked microphone access. You just need to allow it in the browser settings and restart the call.
-
 **Ms. Berg:**
+I see. That means your browser blocked microphone access. You just need to allow it in the browser settings and restart the call.
+
+**Mr. Camelier:**
 Okay, I'll do that. Thanks for the quick help.
 
-**Mr. Camelier:**
+**Ms. Berg:**
 No problem. If you're not sure where to find it, click the small lock icon next to the address bar in your browser. From there, set the microphone permission to "Allow" and then reload the page.
 
-**Ms. Berg:**
+**Mr. Camelier:**
 Perfect, I'll do that. Thanks again!
 
+**Ms. Berg:**
+OK. Goodbye, Mr. Camelier.
+
 **Mr. Camelier:**
-Goodbye.
+Bye, Ms. Berg.
 

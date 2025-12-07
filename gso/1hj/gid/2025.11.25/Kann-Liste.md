@@ -260,3 +260,4 @@ Abhängig vom Alter zu Beginn des Kalenderjahres:
 - **Vergütung:** Angemessen und mit fortschreitender Ausbildung steigend (§ 17 BBiG)
 - **Mindestvergütung:** Gilt seit 2020, wird jährlich angepasst
 - **Zeugnis:** Bei Beendigung schriftlich auszustellen (§ 16 BBiG)
+- 

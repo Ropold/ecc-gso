@@ -53,7 +53,7 @@
 **Sent:** 20__-02-15
 **Subject:** Incorrect colour delivery - 'Dandy' suits, Order No. DS/247/20__ of 15 Jan 20__
 
-Dear Sir or Madam
+Dear Sir ***
 
 I am writing with reference to our order No. DS/247/20__ for 'Dandy' men's suits dated 15 January 20__.
 

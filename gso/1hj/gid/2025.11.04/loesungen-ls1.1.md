@@ -116,13 +116,13 @@
 | Aussage | Anspruch |
 |---------|----------|
 | a) Übertragung von Aufgaben, deren Inhalt dem Ausbildungszweck dient | **✅ 1) Recht eines Auszubildenden** (§ 14 Abs. 1 Nr. 1 BBiG) |
-| b) Führen des Berichtsheftes | **2) Pflicht eines Auszubildenden** (§ 13 Nr. 7 BBiG) |
+| b) Führen des Berichtsheftes | **2) Pflicht eines Auszubildenden** (§ 13 Satz 2 Nr. 7 BBiG) |
 | c) Kostenlose Ausbildungsmittel zur Verfügung gestellt bekommen | **1) Recht eines Auszubildenden** (§ 14 Abs. 1 Nr. 3 BBiG) |
-| d) Über Betriebs- und Geschäftsgeheimnisse Stillschweigen wahren | **2) Pflicht eines Auszubildenden** (§ 13 Nr. 6 BBiG) |
+| d) Über Betriebs- und Geschäftsgeheimnisse Stillschweigen wahren | **2) Pflicht eines Auszubildenden** (§ 13 Satz 2 Nr. 6 BBiG) |
 | e) Freistellung für Berufsschulunterricht und Prüfungen | **1) Recht eines Auszubildenden** (§ 15 BBiG) |
 | f) Vermittlung der Fertigkeiten und Kenntnisse zum Erreichen des Ausbildungszieles | **1) Recht eines Auszubildenden** (§ 14 Abs. 1 Nr. 1 BBiG) |
 | g) Zahlung einer angemessenen Vergütung und Gewährung des Urlaubs | **1) Recht eines Auszubildenden** (§ 17, § 19 BBiG) |
-| h) Weisungen des Ausbildenden/Ausbilders Folge leisten | **2) Pflicht eines Auszubildenden** (§ 13 Nr. 2 BBiG) |
+| h) Weisungen des Ausbildenden/Ausbilders Folge leisten | **2) Pflicht eines Auszubildenden** (§ 13 Satz 2 Nr. 3 BBiG) |
 
 ---
 
@@ -177,14 +177,14 @@
 | Nr. | Fall | Paragraph BBiG | Verstoß |
 |-----|------|----------------|---------|
 | 1. | Nur Kopieren und Kaffee kochen nach einem Jahr | **⚖️ § 14 Abs. 1 Nr. 1** | Ausbilder muss Fertigkeiten vermitteln, die zum Erreichen des Ausbildungsziels erforderlich sind |
-| 2. | Kopien von Buchhaltungsunterlagen mitgebracht | **§ 13 Nr. 6** | Auszubildende hat Pflicht zur Verschwiegenheit über Betriebs- und Geschäftsgeheimnisse verletzt |
-| 3. | Schwänzt Berufsschule, Ausbilder sagt, das gehe ihn nichts an | **§ 15 Abs. 1 Nr. 2 und § 14 Abs. 1 Nr. 4** | Ausbilder muss für Berufsschulbesuch freistellen und zur Teilnahme anhalten |
-| 4. | Rückenschmerzen vom Kistenschleppen | **§ 14 Abs. 1 Nr. 1** | Ausbilder darf nur Aufgaben übertragen, die dem Ausbildungszweck dienen; körperliche Schäden sind zu vermeiden |
-| 5. | Erscheint freitags 2 Stunden zu spät zum Unterricht | **§ 13 Nr. 3** | Auszubildende hat Pflicht zur Teilnahme an Ausbildungsmaßnahmen (inkl. Berufsschule) |
-| 6. | Chef hat keine Zeit für Zeugnis | **§ 16** | Ausbilder muss bei Beendigung ein Zeugnis ausstellen |
-| 7. | Führt Kundendateien schlampig | **§ 13 Nr. 1** | Auszubildende hat Pflicht zur sorgfältigen Ausführung der übertragenen Aufgaben |
-| 8. | Folgt Anweisungen von Frau Müller nicht | **§ 13 Nr. 2** | Auszubildende hat Pflicht, Weisungen zu befolgen |
-| 9. | Schlägt auf PC-Tastatur | **§ 13 Nr. 4** | Auszubildende hat Pflicht, Werkzeuge und Einrichtungen pfleglich zu behandeln |
+| 2. | Kopien von Buchhaltungsunterlagen mitgebracht | **§ 13 Satz 2 Nr. 6** | Auszubildende hat Pflicht zur Verschwiegenheit über Betriebs- und Geschäftsgeheimnisse verletzt |
+| 3. | Schwänzt Berufsschule, Ausbilder sagt, das gehe ihn nichts an | **§ 15 Abs. 1 Satz 2 Nr. 1 und § 14 Abs. 1 Nr. 4** | Ausbilder muss für Berufsschulbesuch freistellen und zur Teilnahme anhalten |
+| 4. | Rückenschmerzen vom Kistenschleppen | **§ 14 Abs. 3 und § 14 Abs. 1 Nr. 5** | Ausbilder darf nur Aufgaben übertragen, die dem Ausbildungszweck dienen und körperlichen Kräften angemessen sind; körperliche Gefährdung ist zu vermeiden |
+| 5. | Erscheint freitags 2 Stunden zu spät zum Unterricht | **§ 13 Satz 2 Nr. 2** | Auszubildende hat Pflicht zur Teilnahme an Ausbildungsmaßnahmen (inkl. Berufsschule) |
+| 6. | Chef hat keine Zeit für Zeugnis | **§ 16 Abs. 1** | Ausbilder muss bei Beendigung ein Zeugnis ausstellen |
+| 7. | Führt Kundendateien schlampig | **§ 13 Satz 2 Nr. 1** | Auszubildende hat Pflicht zur sorgfältigen Ausführung der übertragenen Aufgaben |
+| 8. | Folgt Anweisungen von Frau Müller nicht | **§ 13 Satz 2 Nr. 3** | Auszubildende hat Pflicht, Weisungen zu befolgen |
+| 9. | Schlägt auf PC-Tastatur | **§ 13 Satz 2 Nr. 5** | Auszubildende hat Pflicht, Werkzeuge und Einrichtungen pfleglich zu behandeln |
 | 10. | Gleichbleibende Vergütung alle drei Jahre (350 €) | **§ 17 Abs. 1** | Vergütung muss mit fortschreitender Ausbildung ansteigen |
 | 11. | Vergütung zwei Monate im Rückstand | **§ 18 Abs. 2** | Vergütung muss spätestens am letzten Arbeitstag des Monats gezahlt werden |
 | 12. | Probezeit auf 5 Monate verlängern | **§ 20** | Probezeit darf maximal vier Monate betragen und kann nicht verlängert werden |
@@ -199,11 +199,11 @@
 
 | Nr. | Vorfall | Pflichten | Verstoß |
 |-----|---------|-----------|---------|
-| 1. | Berufsschule sei unnötig | **❌ Pflicht des Ausbildenden** | Verstoß gegen § 15 BBiG - Freistellung für Berufsschulbesuch; § 14 Abs. 1 Nr. 4 - Anhalten zum Besuch |
+| 1. | Berufsschule sei unnötig | **❌ Pflicht des Ausbildenden** | Verstoß gegen § 15 Abs. 1 Satz 2 Nr. 1 BBiG - Freistellung für Berufsschulbesuch; § 14 Abs. 1 Nr. 4 - Anhalten zum Besuch |
 | 2. | Ausbildungsvertrag erst nach 6 Monaten | **Pflicht des Ausbildenden** | Verstoß gegen § 11 BBiG - Vertrag muss unverzüglich nach Abschluss schriftlich niedergelegt werden |
 | 3. | Ausbildungsordnung gehe ihn nichts an, eigene Vorstellungen | **Pflicht des Ausbildenden** | Verstoß gegen § 14 Abs. 1 Nr. 1 BBiG - Ausbildung muss nach Ausbildungsordnung erfolgen |
 | 4. | Berichtsheft sei Quatsch | **Pflicht des Ausbildenden** | Verstoß gegen § 14 Abs. 2 BBiG - Ausbilder muss Führung des Berichtshefts ermöglichen und überwachen |
 | 5. | Keine neue Schneidemaschine trotz Verletzungen | **Pflicht des Ausbildenden** | Verstoß gegen § 14 Abs. 1 Nr. 3 BBiG - Ausbilder muss für sichere Ausbildungsmittel sorgen |
 | 6. | Muss vormittags im Haushalt der Frau helfen | **Pflicht des Ausbildenden** | Verstoß gegen § 14 Abs. 1 Nr. 1 BBiG - nur ausbildungsrelevante Aufgaben; Hausarbeit dient nicht dem Ausbildungszweck |
-| 7. | Befolgt Anweisungen nicht, arbeitet mangelhaft, versalzt Salate | **Pflicht des Auszubildenden** | Verstoß gegen § 13 Nr. 1 und Nr. 2 BBiG - Sorgfaltspflicht und Weisungsgebundenheit |
-| 8. | Vergütung um 100 € gekürzt; Emre bleibt eine Woche unentschuldigt fern; fristlose Kündigung | **Beide Seiten** | Ausbilder: Verstoß gegen § 17 BBiG - Vergütung darf nicht gekürzt werden<br>Emre: Verstoß gegen § 13 Nr. 3 BBiG - unentschuldigtes Fernbleiben<br>Kündigung: Nach § 22 Abs. 2 Nr. 1 BBiG ist fristlose Kündigung bei wichtigem Grund möglich (eine Woche unentschuldigt = wichtiger Grund) - **Kündigung wirksam** |
+| 7. | Befolgt Anweisungen nicht, arbeitet mangelhaft, versalzt Salate | **Pflicht des Auszubildenden** | Verstoß gegen § 13 Satz 2 Nr. 1 und Nr. 3 BBiG - Sorgfaltspflicht und Weisungsgebundenheit |
+| 8. | Vergütung um 100 € gekürzt; Emre bleibt eine Woche unentschuldigt fern; fristlose Kündigung | **Beide Seiten** | Ausbilder: Verstoß gegen § 17 BBiG - Vergütung darf nicht gekürzt werden<br>Emre: Verstoß gegen § 13 Satz 2 Nr. 2 BBiG - unentschuldigtes Fernbleiben<br>Kündigung: Nach § 22 Abs. 2 Nr. 1 BBiG ist fristlose Kündigung bei wichtigem Grund möglich (eine Woche unentschuldigt = wichtiger Grund) - **Kündigung wirksam** |
